@@ -1,1 +1,2 @@
 # cpptest
+# test templates
